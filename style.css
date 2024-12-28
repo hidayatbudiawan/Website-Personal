@@ -1,0 +1,30 @@
+body{
+    background-image: url(bg1.jpg);
+    background-size: 500px;
+}
+
+h1{
+    font-weight: bold;
+    color: lightseagreen;
+    font-style: initial;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h4{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: midnightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label{
+    color: midnightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+textarea{
+    color: dimgray;
+}
